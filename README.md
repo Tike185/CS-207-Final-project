@@ -22,7 +22,7 @@ Materials:
 -	x2 10k ohms resistors
 -	x2 560 ohms resitor
 
-- Wiring diagrams:
+• Wiring diagrams:
 - [sketch 1.pdf](https://github.com/Tike185/CS-207-Final-project/files/6314934/sketch.1.pdf)
 - [LCD sketch.pdf](https://github.com/Tike185/CS-207-Final-project/files/6315358/LCD.sketch.pdf)
 - [DS1307 sketch.pdf](https://github.com/Tike185/CS-207-Final-project/files/6315356/DS1307.sketch.pdf)
