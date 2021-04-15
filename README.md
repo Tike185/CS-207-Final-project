@@ -67,7 +67,7 @@ o	Pin 3 is connected to 5v
 
 
 # Planned features: 
-I want to add a third button thatwould function as a snooze button by adding an extra 10 minutes to the Alarm time.
+I want to add a third button thatvwould function as a snooze button by adding an extra 10 minutes to the Alarm time.
 
 # Bugs:
 
