@@ -2,8 +2,9 @@
 # CS 207 Project: ALARM CLOCK
 
 This is an alarm clock system that is activated at a scheduled time.
-The circuit uses 2 buttons to control the clock.
-The first button is used to select the hour and minute of time and clock while the second buttons edits the time and clock.
+It uses an LCD to display the time and alarm and a rtc chip to keep track of the time.
+The circuit uses 2 buttons to control the time on the display.
+The first button is used to select the hour and minute of time and Alarm while the second buttons edits the time and alarm on the clock.
 When an alarm is set, the screen displays the scheduled time of the alarm. 
 An LED also blinks every second to replicate the "tik-toking" of a clock.
 When the alarm is activated,the screen displays “Wake Up” and the buzzer makes a sound for a minute.
@@ -51,12 +52,16 @@ o	Pin 14(D7) is connected to pin 7
 o	Pin 15(A) is connected to 5v
 o	Pin 16(K) is connected to ground
 o D0, D1, D2, and D3 are not in use
-• The VEE pin controls the contrast of the screen. 
 
 •	The potential meter has 3 pins:
 o	Pin 1 is connected to ground
-o	Pin 2 is connected VEE on LCD display 
+o	Pin 2 is the middle pin that is connected VEE on LCD display 
 o	Pin 3 is connected to 5v
+
+- Things to note:
+-  The VEE pin controls the constrast of the screen
+- 
+
 
 # Planned features: 
 I want to add a third button thatwould function as a snooze button by adding an extra 10 minutes to the Alarm time.
@@ -70,6 +75,9 @@ The program sets up the time and alarm with the same buttons. This would be an i
 
 # Licence:
 
-• credits: https://simple-circuit.com/esp8266-esp-01-ds3231-ds1307-rtc/
+- credits: https://simple-circuit.com/esp8266-esp-01-ds3231-ds1307-rtc/
+- Disclaimer: None of the libraries were created by me.
 
+# Thanks: 
 
+- a special thanks to my brother for buying the extra compents needed to complete the circuit.
