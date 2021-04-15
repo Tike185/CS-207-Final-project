@@ -9,8 +9,8 @@ The first and second buttons are pressed simultaneously to set up the time and t
 When an alarm is set, the screen displays the scheduled time of the alarm. 
 The screen displays “Alarm Off” when no alarm is set.
 
-2.	Installation instructions
-# Materials:
+# Installation instructions
+Materials:
 -	x3 push buttons
 -	x1 piezo speaker
 -	x1 RTC DS1307
