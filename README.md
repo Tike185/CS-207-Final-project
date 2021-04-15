@@ -21,6 +21,9 @@ Materials:
 -	x2 10k ohms resistors
 -	x1 560 ohms resitor
 
+[sketch 1.pdf](https://github.com/Tike185/CS-207-Final-project/files/6314928/sketch.1.pdf)
+
+
 # Build Instructions
 •	Connect push button 1 to pin 10 from ground.
 •	Connect push button 2 to pin 11 from ground.
